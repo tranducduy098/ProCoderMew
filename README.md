@@ -4,7 +4,7 @@
 
 # 👨🏻‍💻 About Me
 
-- 🔭 &nbsp; My name is Minh.
+- 🔭 &nbsp; My name is Duy.
 - 🌱 &nbsp; My hobby are watching anime, science fiction movie and coding :3.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
